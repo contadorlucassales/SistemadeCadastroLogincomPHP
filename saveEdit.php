@@ -19,7 +19,5 @@ if(isset($_POST['update']))
 
   $result = $conexao->query($sqlUpdate);
 }
-
 header('Location: sistema.php');
-
 ?>
