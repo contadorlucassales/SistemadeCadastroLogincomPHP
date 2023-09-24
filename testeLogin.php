@@ -42,5 +42,3 @@ session_start();
       // Não acessa
       header('Location: login.php');
     }
-
-    ?>
